@@ -1,4 +1,4 @@
-{
+/*{
   "name": "my-node-express",
   "version": "1.0.0",
   "description": "",
@@ -35,4 +35,4 @@
   "devDependencies": {
     "nodemon": "^2.0.2"
   }
-}
+}*/
